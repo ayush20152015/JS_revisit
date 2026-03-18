@@ -1,0 +1,13 @@
+.visual_studio_button {
+  background: linear-gradient(135deg, #0078d4, #005a9e);
+  color: white;
+  font-size: 20px;
+  padding: 14px 32px;
+  border-radius: 10px;
+  text-decoration: none;
+  display: inline-block;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+  box-shadow: 0px 6px 15px rgba(0,0,0,0.2);
+}
